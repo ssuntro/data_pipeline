@@ -1,0 +1,718 @@
+PL_NAME,SPEC_TYPE,AUTHORS,NUM_DATAPOINTS,INSTRUMENT,FACILITY,MINWAVELNG,MAXWAVELNG,MINTRANMID,MAXTRANMID,NOTE
+Kepler-6 b,Emission,D&eacute;sert et al. 2011,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 2
+Kepler-20 c,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-20 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+55 Cnc e,Emission,Demory et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,Table 2
+55 Cnc e,Emission,Demory et al. 2012,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+55 Cnc e,Emission,Hu et al. 2024,9,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,6.5825,11.4545,2460027.5,2460027.5,Fig. 3
+55 Cnc e,Emission,Hu et al. 2024,21,Near Infrared Camera (NIRCam),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,3.965,4.965,2459907.5,2459907.5,Relative eclipse depths offset by 60 ppm (Fig 3)
+55 Cnc e,Transmission,de Mooij et al. 2014,8,ALFOSC,Nordic Optical Telescope,0.4735,0.656,,,
+55 Cnc e,Transmission,Demory et al. 2011,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,2455568.0265,2455568.0265,
+55 Cnc e,Transmission,Demory et al. 2016,6,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,2455567.5,2456484.5,
+55 Cnc e,Transmission,Tsiaras et al. 2016,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.132,1.6376,,,
+CoRoT-1 b,Emission,Gillon et al. 2009,1,High Acuity Wide-field K-band Imager (HAWK-I),European Southern Observatory (ESO) 8.2m Very Large Telescope (VLT) Yepun at Paranal Observatory,2.095,2.095,,,Table 1
+CoRoT-1 b,Emission,Rogers et al. 2009,1,Near-Infrared Camera & Fabry-Perot Spectrometer (NIC-FPS),Astrophysical Research Consortium (ARC) 3.5m Telescope At Apache Point Observatory (APO),2.147,2.147,,,Table 3
+CoRoT-1 b,Emission,Deming et al. 2011,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 1
+CoRoT-1 b,Emission,Zhao et al. 2012,1,Wide-field InfraRed Camera (WIRC),Palomar Observatory 200-inch Hale Telescope,1.635,1.635,,,
+CoRoT-1 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+CoRoT-1 b,Emission,Changeat et al. 2022,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6237,,,Figure 2
+CoRoT-1 b,Transmission,Schlawin et al. 2014,10,SpeX and MORIS,Infrared Telescope Facility,0.86,2.312,,,
+CoRoT-1 b,Transmission,Ranjan et al. 2014,10,Wide Field Camera 3,Hubble Space Telescope satellite,1.144,1.59,,,
+CoRoT-1 b,Transmission,Changeat et al. 2022,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6237,,,Figure 2
+CoRoT-1 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+CoRoT-1 b,Transmission,Jiang et al. 2023,40,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.92,,,
+CoRoT-2 b,Emission,Gillon et al. 2010,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,8.0,,,Table 1
+CoRoT-2 b,Emission,Alonso et al. 2010,1,LIRIS,Isaac Newton Group (ING) 4.2m William Herschel Telescope (WHT) at Observatorio del Roque de los Muchachos,2.15,2.15,,,eclipse depth taken from Abstract
+CoRoT-2 b,Emission,Deming et al. 2011,3,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+GJ 1214 b,Emission,Kempton et al. 2023,14,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,
+GJ 1214 b,Transmission,Wilson et al. 2014,8,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.81,0.885,2455350.5635,2455723.539,
+GJ 1214 b,Transmission,Gillon et al. 2014,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,2454980.749,2454980.749,
+GJ 1214 b,Transmission,Gillon et al. 2014,1,TRAPPISTCam,La Silla Observatory's 60-cm TRAPPIST Telescope,0.838,0.838,,,
+GJ 1214 b,Transmission,C&aacute;ceres et al. 2014,1,OSIRIS,The Southern Astrophysical Research Telescope,2.14,2.14,2455783.5941,2455783.5941,
+GJ 1214 b,Transmission,C&aacute;ceres et al. 2014,1,SOI,The Southern Astrophysical Research Telescope,0.8665,0.8665,2455315.7947,2455315.7947,
+GJ 1214 b,Transmission,Berta et al. 2012,24,Wide Field Camera 3,Hubble Space Telescope satellite,1.123,1.656,,,
+GJ 1214 b,Transmission,Bean et al. 2011,36,MMIRS,Magellan II Landon Clay Telescope,0.62,0.995,,,
+GJ 1214 b,Transmission,Croll et al. 2011,8,WIRCam,Canada-France-Hawaii Telescope,1.25,2.15,2455375.85,2455462.7722,
+GJ 1214 b,Transmission,Kreidberg et al. 2014,22,Wide Field Camera 3,Hubble Space Telescope satellite,1.1465,1.6305,,,
+GJ 1214 b,Transmission,Narita et al. 2013,3,SIRIUS,Infrared Survey Facility,1.25,2.14,,,
+GJ 1214 b,Transmission,de Mooij et al. 2012,4,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.46,0.9,2455380.5901,2455380.5905,
+GJ 1214 b,Transmission,de Mooij et al. 2012,1,LIRIS,Isaac Newton Group's William Herschel Telescope,2.27,2.27,2455426.4227,2455426.4227,
+GJ 1214 b,Transmission,de Mooij et al. 2012,1,NOTCam,Nordic Optical Telescope,2.15,2.15,2455342.6606,2455342.6606,
+GJ 1214 b,Transmission,de Mooij et al. 2012,2,WFC,Isaac Newton Group's Isaac Newton Telescope,0.63,0.82,2455342.6608,2455407.4575,
+GJ 1214 b,Transmission,Nascimbeni et al. 2015,2,LBC,Large Binocular Telescope Observatory,0.5,0.775,,,
+GJ 1214 b,Transmission,D&eacute;sert et al. 2011,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,2455312.6331,2455314.2134,
+GJ 1214 b,Transmission,de Mooij et al. 2013,1,ACAM,Isaac Newton Group's William Herschel Telescope,0.4996,0.4996,,,
+GJ 1214 b,Transmission,de Mooij et al. 2013,1,FORS,Very Large Telescope (Antu),0.4543,0.4543,,,
+GJ 1214 b,Transmission,de Mooij et al. 2013,1,WFC,Isaac Newton Group's Isaac Newton Telescope,0.4962,0.4962,,,
+GJ 1214 b,Transmission,Murgas et al. 2012,3,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.6535,0.662,2455791.496,2455791.4968,
+GJ 1214 b,Transmission,Rackham et al. 2017,14,IMACS spectrograph,Magellan I Walter Baade Telescope,0.5078,0.9162,,,
+GJ 1214 b,Transmission,Kempton et al. 2023,14,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.2817,11.747,,,
+GJ 1214 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+GJ 436 b,Emission,Deming et al. 2007,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,8.0,8.0,,,Table 1
+GJ 436 b,Emission,Stevenson et al. 2010,5,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,24.0,,,Table 1
+GJ 436 b,Transmission,Knutson et al. 2014,28,Wide Field Camera 3,Hubble Space Telescope satellite,1.136,1.645,2456226.6913,2456226.6913,
+GJ 436 b,Transmission,Knutson et al. 2011,8,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,2454280.7819,2454865.0834,
+HAT-P-12 b,Emission,Wong et al. 2020,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Simultaneous fit of all four eclipses.
+HAT-P-12 b,Transmission,Line et al. 2013,23,Wide Field Camera 3,Hubble Space Telescope satellite,1.108,1.627,,,
+HAT-P-12 b,Transmission,Mallonn et al. 2015,1,AFOSC,Asiago Observatory's Copernico Telescope,0.6476,0.6476,,,
+HAT-P-12 b,Transmission,Mallonn et al. 2015,1,Keplercam,Fred Lawrence Whipple Observatory's 1.2 meter Telescope,0.9222,0.9222,,,
+HAT-P-12 b,Transmission,Mallonn et al. 2015,2,Multiple Instruments,Multiple Observatories,0.4754,0.6204,,,
+HAT-P-12 b,Transmission,Mallonn et al. 2015,1,StanCam,Nordic Optical Telescope,0.429,0.429,,,
+HAT-P-12 b,Transmission,Mallonn et al. 2015,2,WiFSIP,STELLA Robotic Observatory,0.5477,0.7698,,,
+HAT-P-12 b,Transmission,Sing et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.56,4.5,,,
+HAT-P-12 b,Transmission,Sing et al. 2016,17,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.38,0.965,,,
+HAT-P-12 b,Transmission,Sing et al. 2016,12,Wide Field Camera 3,Hubble Space Telescope satellite,1.132,1.6424,,,
+HAT-P-12 b,Transmission,Yan et al. 2020,17,MODS1,Large Binocular Telescope Observatory,0.395,0.945,,,
+HAT-P-12 b,Transmission,Yan et al. 2020,13,MODS2,Large Binocular Telescope Observatory,0.395,0.7367,,,
+HAT-P-12 b,Transmission,Panek et al. 2023,20,Wide Field Camera 3,Hubble Space Telescope satellite,1.0994,1.6616,,,
+HAT-P-12 b,Transmission,Wong et al. 2020,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,
+HAT-P-12 b,Transmission,Wong et al. 2020,4,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.374,0.54,,,STIS G430L
+HAT-P-12 b,Transmission,Wong et al. 2020,12,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.55,0.992,,,STIS G750L
+HAT-P-12 b,Transmission,Wong et al. 2020,28,Wide Field Camera 3,Hubble Space Telescope satellite,1.11,1.65,,,WFC3 G141
+HAT-P-13 b,Emission,Buhler et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 1
+HAT-P-13 b,Emission,Hardy et al. 2017,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 3
+HAT-P-14 b,Transmission,Fukui et al. 2016,1,AFOSC,Asiago Observatory's Copernico Telescope,0.648,0.648,,,
+HAT-P-14 b,Transmission,Fukui et al. 2016,1,Keplercam,Fred Lawrence Whipple Observatory's 1.2 meter Telescope,0.773,0.773,,,
+HAT-P-14 b,Transmission,Fukui et al. 2016,3,MuSCAT,National Astronomical Observatory of Japan's Okayama Astrophysical Observatory 1.88m Telescope,0.479,0.869,,,
+HAT-P-14 b,Transmission,Fukui et al. 2016,1,RISE,Liverpool 2 meter telesope at Observatorio del Roque de los Muchachos,0.616,0.616,,,
+HAT-P-14 b,Transmission,Fukui et al. 2016,1,Spectral camera,Faulkes Telescope North,0.87,0.87,,,
+HAT-P-16 b,Transmission,Pearson et al. 2014,1,Mont4k CCD,Steward Observatory's 1.5 meter Kuiper Telescope,0.36,0.36,2456290.6578,2456290.6578,
+HAT-P-18 b,Transmission,Kirk et al. 2017,17,ACAM,Isaac Newton Group's William Herschel Telescope,0.4874,0.9124,,,
+HAT-P-18 b,Transmission,Fu et al. 2022,1021,Near Infrared Imager and Slitless Spectrograph (NIRISS),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.6078,2.8266,2459743.8534,2459743.8534,
+HAT-P-18 b,Transmission,Jiang et al. 2023,26,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.78,,,
+HAT-P-19 b,Emission,Kammer et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 3
+HAT-P-19 b,Transmission,Mallonn et al. 2015,57,WiFSIP,STELLA Robotic Observatory,0.5641,0.7642,,,
+HAT-P-19 b,Transmission,Kang et al. 2024,4,MuSCAT2,"1.52 m Telescopio Carlos Sanchez, Teide Observatory",0.475,0.87,,,Table 3
+HAT-P-1 b,Emission,Todorov et al. 2010,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+HAT-P-1 b,Emission,de Mooij et al. 2011,1,LIRIS,Isaac Newton Group (ING) 4.2m William Herschel Telescope (WHT) at Observatorio del Roque de los Muchachos,2.2,2.2,,,Table 1
+HAT-P-1 b,Transmission,Wakeford et al. 2013,28,Wide Field Camera 3,Hubble Space Telescope satellite,1.1269,1.6453,2456114.3453,2456114.3453,
+HAT-P-1 b,Transmission,Nikolov et al. 2014,14,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.335,0.97,,,
+HAT-P-1 b,Transmission,Montalto et al. 2015,5,DOLORES,Telescopio Nazionale Galileo,0.5253,0.7666,,,
+HAT-P-1 b,Transmission,Wilson et al. 2015,6,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope (GRANTECAN),0.6792,0.8844,2455127.515,2456623.387,
+HAT-P-1 b,Transmission,Sing et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.56,4.5,,,
+HAT-P-1 b,Transmission,Sing et al. 2016,23,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.3625,0.9643,,,
+HAT-P-1 b,Transmission,Sing et al. 2016,17,Wide Field Camera 3,Hubble Space Telescope satellite,1.1347,1.6555,,,
+HAT-P-23 b,Transmission,Ciceri et al. 2015,4,BUSCA,Calar Alto Observatory's 2.2 meter Telescope,0.3585,0.9222,,,
+HAT-P-23 b,Transmission,Ciceri et al. 2015,7,DLR-MKIII camera,Calar Alto Observatory's 1.2 meter Telescope,0.6469,0.6469,,,
+HAT-P-26 b,Transmission,Stevenson et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,2456405.6237,2456545.3622,
+HAT-P-26 b,Transmission,Stevenson et al. 2016,23,LDSS-3C,Magellan II Landon Clay Telescope,0.7188,0.9937,2457129.7225,2457129.7225,
+HAT-P-26 b,Transmission,Wakeford et al. 2017,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,
+HAT-P-26 b,Transmission,Wakeford et al. 2017,7,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.56,0.957,,,
+HAT-P-26 b,Transmission,Wakeford et al. 2017,18,Wide Field Camera 3,Hubble Space Telescope satellite,0.847,1.617,,,
+HAT-P-26 b,Transmission,A-thano et al. 2023,2,CCD camera,0.7 m Thai Robotic Telescope (TRT),0.672,0.805,,,"Fixed LDC - R, I bands"
+HAT-P-26 b,Transmission,A-thano et al. 2023,2,CCD camera,0.7 m Thai Robotic Telescope (TRT),0.672,0.805,,,"Fitted LDC - R, I bands"
+HAT-P-26 b,Transmission,A-thano et al. 2023,1,TESS CCD Array,Transiting Exoplanet Survey Satellite,0.745,0.745,,,Fixed LDC - TESS
+HAT-P-26 b,Transmission,A-thano et al. 2023,1,TESS CCD Array,Transiting Exoplanet Survey Satellite,0.745,0.745,,,Fitted LDC - TESS
+HAT-P-26 b,Transmission,A-thano et al. 2023,4,ULTRASPEC,2.4 m Thai National Telescope (TNT),0.467,0.94,,,"Fixed LDC - g, r, i, z bands"
+HAT-P-26 b,Transmission,A-thano et al. 2023,4,ULTRASPEC,2.4 m Thai National Telescope (TNT),0.467,0.94,,,"Fitted LDC - g, r, i, z bands"
+HAT-P-26 b,Transmission,A-thano et al. 2023,32,Wide Field Camera 3,Hubble Space Telescope satellite,0.813,1.624,,,Fitted LDC - Hubble
+HAT-P-26 b,Transmission,A-thano et al. 2023,32,Wide Field Camera 3,Hubble Space Telescope satellite,0.813,1.624,,,Fixed LDC - Hubble
+HAT-P-2 b,Emission,Changeat et al. 2022,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Figure 2
+HAT-P-2 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+HAT-P-2 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+HAT-P-32 b,Emission,Zhao et al. 2014,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 2
+HAT-P-32 b,Emission,Zhao et al. 2014,2,Wide-field Infra-Red Camera (WIRC),California Institute of Technology 5.1m (200inch) Hale Telescope at Palomar Observatory,1.635,2.15,,,Table 2
+HAT-P-32 b,Emission,Nikolov et al. 2018,14,Wide Field Camera 3,Hubble Space Telescope satellite,1.142,1.625,,,Table 2
+HAT-P-32 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+HAT-P-32 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+HAT-P-32 b,Transmission,Gibson et al. 2013,29,GMOS,Gillett Gemini North Telescope,0.5276,0.9255,,,
+HAT-P-32 b,Transmission,Mallonn &amp; Strassmeier 2016,2,MODS1,Large Binocular Telescope Observatory,0.4475,0.7825,2456245.8033,2456245.8035,
+HAT-P-32 b,Transmission,Nortmann et al. 2016,20,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.528,0.908,,,
+HAT-P-32 b,Transmission,Mallonn et al. 2016,1,BUSCA,Calar Alto Observatory's 2.2 meter Telescope,0.7886,0.7886,,,
+HAT-P-32 b,Transmission,Mallonn et al. 2016,1,KeplerCam,Fred Lawrence Whipple Observatory's 1.2 meter Telescope,0.9222,0.9222,,,
+HAT-P-32 b,Transmission,Mallonn et al. 2016,5,Multiple Instruments,Multiple Observatories,0.4407,0.6469,,,
+HAT-P-32 b,Transmission,Mallonn et al. 2016,2,ULTRACAM,Isaac Newton Group's William Herschel Telescope,0.3585,0.58,,,
+HAT-P-32 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+HAT-P-3 b,Emission,Todorov et al. 2013,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 5
+HAT-P-3 b,Transmission,Ricci et al. 2017,2,CCD camera,0.51m KPNO Visitor Center Telescope (KPNO-VCT) at Kitt Peak National Observatory (KPNO),0.4407,0.9222,,,
+HAT-P-3 b,Transmission,Ricci et al. 2017,1,FLAMINGOS,National Optical Astronomy Observatory (NOAO) 2.1 meter Telescope at Kitt Peak National Observatory (KPNO),1.4085,1.4085,,,
+HAT-P-3 b,Transmission,Ricci et al. 2017,3,MEXMAN,National Autonomous University of Mexico (UNAM) 0.84m Telescope at El Observatorio Astronomico Nacional/Sierra San Pedro Martir (OAN/SPM),0.538,0.894,,,
+HAT-P-3 b,Transmission,Ricci et al. 2017,1,SBIG STL-1301E,University of Monterrey (UDEM) 0.36m telescope at Observatorio de la Universidad de Monterrey,0.7886,0.7886,,,
+HAT-P-4 b,Emission,Christiansen et al. 2011,1,High Resolution Imager (HRI),Deep Impact spacecraft,0.65,0.65,,,Table 6
+HAT-P-4 b,Emission,Todorov et al. 2013,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 5
+HAT-P-6 b,Emission,Todorov et al. 2012,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,"Table 4 (eclip depth), Table 5 (bright temp)"
+HAT-P-8 b,Emission,Todorov et al. 2012,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,"Table 4 (eclip depth), Table 5 (bright temp)"
+HD 149026 b,Emission,Harrington et al. 2007,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,8.0,8.0,,,
+HD 149026 b,Emission,Stevenson et al. 2012,5,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,16.0,,,eclipse depth taken from Abstract
+HD 149026 b,Emission,Bean et al. 2023,140,Near Infrared Camera (NIRCam),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.36,5.02,,,
+HD 189733 b,Emission,Agol et al. 2010,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,8.0,8.0,,,Table 4
+HD 189733 b,Emission,Deming et al. 2006,1,Infrared Spectrograph (IRS),Spitzer Space Telescope satellite,16.0,16.0,,,eclipse depth taken from Abstract
+HD 189733 b,Emission,Charbonneau et al. 2008,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+HD 189733 b,Emission,Charbonneau et al. 2008,1,Infrared Spectrograph (IRS),Spitzer Space Telescope satellite,16.0,16.0,,,Table 1
+HD 189733 b,Emission,Charbonneau et al. 2008,1,Multiband Imaging Photometer (MIPS),Spitzer Space Telescope satellite,24.0,24.0,,,Table 1
+HD 189733 b,Emission,Knutson et al. 2009,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,8.0,8.0,,,Table 1
+HD 189733 b,Emission,Knutson et al. 2009,1,Multiband Imaging Photometer (MIPS),Spitzer Space Telescope satellite,24.0,24.0,,,Table 1
+HD 189733 b,Emission,Swain et al. 2009,18,Near Infrared Camera and Multi-Object Spectrometer (NICMOS),Hubble Space Telescope satellite,1.476,2.446,,,Table 1
+HD 189733 b,Emission,Changeat et al. 2022,6,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,24.0,,,Figure 2
+HD 189733 b,Emission,Changeat et al. 2022,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6237,,,Figure 2
+HD 189733 b,Transmission,D&eacute;sert et al. 2011,1,Infrared Array camera (IRAC),Spitzer Space Telescope satellite,3.6,3.6,2454430.3106,2454430.3106,
+HD 189733 b,Transmission,Pont et al. 2013,10,Advanced Camera for Surveys,Hubble Space Telescope satellite,0.575,1.025,2453877.209,2453877.209,
+HD 189733 b,Transmission,Pont et al. 2013,7,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,7.85,2454039.2228,2455559.5546,
+HD 189733 b,Transmission,Pont et al. 2013,1,Multiband Imaging Photometer (MIPS),Spitzer Space Telescope satellite,24.0,24.0,2454398.6056,2454398.6056,
+HD 189733 b,Transmission,Pont et al. 2013,22,Near Infrared Camera and Multi-Object Spectrometer,Hubble Space Telescope satellite,1.492,2.468,2454219.9818,2454689.2672,
+HD 189733 b,Transmission,Pont et al. 2013,16,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.33,0.6321,2455148.4682,2455334.8098,
+HD 189733 b,Transmission,Pont et al. 2013,4,Wide Field Camera 3,Hubble Space Telescope satellite,1.105,1.607,2455443.5237,2455510.0983,
+HD 189733 b,Transmission,Gibson et al. 2012,4,Wide Field Camera 3,Hubble Space Telescope satellite,1.105,1.607,,,
+HD 189733 b,Transmission,Sing et al. 2011,5,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.33,0.545,,,
+HD 189733 b,Transmission,Wyttenbach et al. 2015,1,HARPS Echelle Spectrograph,European Southern Observatory's 3.6 meter Telescope,0.5893,0.5893,,,
+HD 189733 b,Transmission,Di Gloria et al. 2015,7,HARPS Echelle Spectrograph,European Southern Observatory's 3.6 meter Telescope,0.395,0.675,,,
+HD 189733 b,Transmission,Swain et al. 2008,18,Near Infrared Camera and Multi-Object Spectrometer,Hubble Space Telescope satellite,1.484,2.463,,,
+HD 189733 b,Transmission,Angerhausen et al. 2015,2,HIPO,Stratospheric Observatory For Infrared Astronomy,0.4407,0.9222,,,
+HD 189733 b,Transmission,Sing et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.55,4.5,,,
+HD 189733 b,Transmission,Sing et al. 2016,2,Near Infrared Camera and Multi-Object Spectrometer,Hubble Space Telescope satellite,1.925,2.3,,,
+HD 189733 b,Transmission,Sing et al. 2016,20,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.345,1.085,,,
+HD 189733 b,Transmission,Sing et al. 2016,29,Wide Field Camera 3,Hubble Space Telescope satellite,1.1279,1.635,,,
+HD 189733 b,Transmission,Borsa et al. 2016,7,HARPS Echelle Spectrograph,European Southern Observatory's 3.6 meter Telescope,0.41,0.675,2453988.8034,2453988.8034,
+HD 189733 b,Transmission,Barnes et al. 2016,15,HARPS Echelle Spectrograph,European Southern Observatory's 3.6 meter Telescope,0.3934,0.6563,,,
+HD 189733 b,Transmission,McCullough et al. 2014,28,Wide Field Camera 3,Hubble Space Telescope satellite,1.1279,1.635,,,
+HD 189733 b,Transmission,Cubillos et al. 2023,15,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.2297,0.3044,,,NUV Transmission Spectrum at R=50 (Table A.1)
+HD 189733 b,Transmission,Cubillos et al. 2023,3,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.2405,0.295,,,NUV Transmission Spectrum at R=10 (Table A.3)
+HD 189733 b,Transmission,Cubillos et al. 2023,10,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.2309,0.303,,,NUV Transmission Spectrum at R=33 (Table A.2)
+HD 189733 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+HD 189733 b,Transmission,King et al. 2021,2,XMM-Newton Optical Monitor,ESA XMM-Newton X-Ray Multi-Mirror Mission Satellite,0.212,0.291,,,
+HD 209458 b,Emission,Evans et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,3.6,,,"Table 4, 2014 Feb 17"
+HD 209458 b,Emission,Evans et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,8.0,8.0,,,"Table 4, 2007 Dec 25"
+HD 209458 b,Emission,Evans et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,"Table 4, 2010 Jan 21"
+HD 209458 b,Emission,Evans et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,5.8,5.8,,,"Table 4, 2005 Nov 28"
+HD 209458 b,Emission,Knutson et al. 2008,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+HD 209458 b,Emission,Crossfield et al. 2012,1,Multiband Imaging Photometer (MIPS),Spitzer Space Telescope satellite,24.0,24.0,,,"B. temperature from abstract/text, not Table 5"
+HD 209458 b,Emission,Zellem et al. 2014,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,eclipse depth taken from Abstract
+HD 209458 b,Emission,Diamond-Lowe et al. 2014,4,Infrared Array Camera (IRAC),Spitzer Space Telescope,3.6,8.0,,,eclipse depth taken from Abstract
+HD 209458 b,Emission,Line et al. 2016,10,Wide Field Camera 3,Hubble Space Telescope satellite,1.151,1.624,,,Table 2
+HD 209458 b,Emission,Changeat et al. 2022,6,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,24.0,,,Figure 2
+HD 209458 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+HD 209458 b,Transmission,Evans et al. 2015,8,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,2454458.5873,2455216.4056,
+HD 209458 b,Transmission,Deming et al. 2013,28,Wide Field Camera 3,Hubble Space Telescope satellite,1.119,1.628,2456196.2893,2456196.2893,
+HD 209458 b,Transmission,Sing et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.56,4.5,,,
+HD 209458 b,Transmission,Sing et al. 2016,93,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.3072,0.9475,,,
+HD 209458 b,Transmission,Sing et al. 2016,29,Wide Field Camera 3,Hubble Space Telescope satellite,1.1217,1.6391,,,
+HD 209458 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+HD 209458 b,Transmission,Panek et al. 2023,20,Wide Field Camera 3,Hubble Space Telescope satellite,1.0994,1.6616,,,
+HD 97658 b,Transmission,Knutson et al. 2014,28,Wide Field Camera 3,Hubble Space Telescope satellite,1.132,1.622,2456665.4668,2456665.4668,
+HD 97658 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+Qatar-1 b,Emission,Croll et al. 2015,1,WIRCam,3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,2.15,2.15,,,"Table 5, Qatar-1 Ks band"
+Qatar-1 b,Emission,Garhart et al. 2018,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 1
+Qatar-1 b,Transmission,von Essen et al. 2017,12,GMOS,Association of Universities for Research in Astronomy (AURA) 8.1m Frederick C. Gillett Gemini North Telescope at Mauna Kea Observatory,0.53,0.704,,,
+Qatar-1 b,Transmission,Jiang et al. 2023,40,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.92,,,
+TrES-1 b,Emission,Cubillos et al. 2014,5,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,16.0,,,eclipse depth taken from Abstract
+TrES-1 b,Emission,Charbonneau et al. 2005,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,8.0,,,"Bright. temp from text, Section 4, 2nd para."
+TrES-3 b,Emission,Christiansen et al. 2011,1,High Resolution Imager (HRI),Deep Impact spacecraft,0.65,0.65,,,Table 6
+TrES-3 b,Emission,Fressin et al. 2010,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+TrES-3 b,Emission,Croll et al. 2010,1,Wide-field Infrared Camera (WIRCam),3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,2.146,2.146,,,"Table 1, MCMC Ks-band Solution"
+TrES-3 b,Emission,Changeat et al. 2022,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Figure 2
+TrES-3 b,Emission,Changeat et al. 2022,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6237,,,Figure 2
+TrES-3 b,Transmission,Ricci et al. 2017,1,MEXMAN,National Autonomous University of Mexico (UNAM) 0.84m Telescope at El Observatorio Astronomico Nacional/Sierra San Pedro Martir (OAN/SPM),0.894,0.894,,,
+TrES-3 b,Transmission,Ricci et al. 2017,2,Multiple Instruments,Multiple Observatories,0.63,0.9222,,,
+TrES-3 b,Transmission,Ricci et al. 2017,3,SBIG STL-1301E,University of Monterrey (UDEM) 0.36m telescope at Observatorio de la Universidad de Monterrey,0.5537,0.7886,,,
+TrES-4 b,Emission,Knutson et al. 2009,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+TrES-4 b,Transmission,Ranjan et al. 2014,10,Wide Field Camera 3,Hubble Space Telescope satellite,1.1225,1.638,,,
+TrES-4 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+TrES-4 b,Transmission,Jiang et al. 2023,40,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.92,,,
+WASP-10 b,Emission,Cruz et al. 2015,1,OMEGA2000,Max Planck Institute for Astronomy and Institute of Astrophysics of Andalusia (CSIC) 3.5m Telescope at Calar Alto Observatory,2.159,2.159,,,eclipse depth taken from Abstract
+WASP-10 b,Emission,Kammer et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 3
+WASP-10 b,Transmission,Jiang et al. 2023,31,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.43,0.78,,,
+WASP-12 b,Emission,Stevenson et al. 2014,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 3
+WASP-12 b,Emission,Stevenson et al. 2014,11,Wide Field Camera 3,Hubble Space Telescope satellite,1.125,1.625,,,Table 3
+WASP-12 b,Emission,L&oacute;pez-Morales et al. 2010,1,Seaver Prototype Imaging camera (SPICam),Astrophysical Research Consortium (ARC) 3.5m Telescope At Apache Point Observatory (APO),0.9,0.9,,,"text, Section 3, 2nd paragraph"
+WASP-12 b,Emission,Croll et al. 2011,3,Wide-field Infrared Camera (WIRCam),3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,1.253,2.146,,,eclipse depth taken from Abstract
+WASP-12 b,Emission,Crossfield et al. 2012,20,SpeX,Infrared Telescope Facility,1.5375,2.3375,,,Table 2
+WASP-12 b,Emission,Croll et al. 2015,1,WIRCam,3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,1.04,1.04,,,"Table 5, WASP-12 Y band, Actual Eclipse Depth"
+WASP-12 b,Emission,Croll et al. 2015,1,WIRCam,3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,2.22,2.22,,,"Table 5, WASP-12 K_CONT band, Actual Eclipse Depth"
+WASP-12 b,Emission,Croll et al. 2015,1,WIRCam,3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,2.15,2.15,,,"Table 5, WASP-12 Ks band combined, Actual Eclipse"
+WASP-12 b,Emission,Changeat et al. 2022,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Figure 2
+WASP-12 b,Emission,Changeat et al. 2022,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6237,,,Figure 2
+WASP-12 b,Transmission,Sing et al. 2013,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,2454508.977,2454508.977,
+WASP-12 b,Transmission,Sing et al. 2013,21,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.335,1.631,2454508.977,2454508.977,
+WASP-12 b,Transmission,Stevenson et al. 2014,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,
+WASP-12 b,Transmission,Stevenson et al. 2014,29,Wide Field Camera 3,Hubble Space Telescope satellite,0.728,1.625,,,
+WASP-12 b,Transmission,Copperwheat et al. 2013,3,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.3557,0.601,2454836.4033,2454836.4033,
+WASP-12 b,Transmission,Mandell et al. 2013,19,Wide Field Camera 3,Hubble Space Telescope satellite,1.145,1.633,2455663.6997,2455663.6997,
+WASP-12 b,Transmission,Kreidberg et al. 2015,13,Wide Field Camera 3,Hubble Space Telescope satellite,0.867,1.6315,,,
+WASP-12 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,Figure 2
+WASP-14 b,Transmission,Wong et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,2456034.2123,2456043.1871,
+WASP-17 b,Transmission,Bento et al. 2014,3,ULTRACAM,New Technology Telescope,0.365,0.658,2454558.6853,2454558.6853,
+WASP-17 b,Transmission,Mandell et al. 2013,19,Wide Field Camera 3,Hubble Space Telescope satellite,1.128,1.634,2455750.7948,2455750.7948,
+WASP-17 b,Transmission,Wood et al. 2011,2,GIRAFFE,The Very Large Telescope,0.589,0.5896,,,
+WASP-17 b,Transmission,Sing et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.56,4.5,,,
+WASP-17 b,Transmission,Sing et al. 2016,25,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.34,0.985,,,
+WASP-17 b,Transmission,Sing et al. 2016,12,Wide Field Camera 3,Hubble Space Telescope satellite,1.1319,1.6423,,,
+WASP-17 b,Transmission,Sedaghati et al. 2016,41,FORS2,Very Large Telescope (Antu),0.575,0.795,2457192.698,2457192.698,
+WASP-17 b,Transmission,Saba et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.56,4.5,,,Reduced and Fitted Spectral Data Using TLCD-LSTM
+WASP-17 b,Transmission,Saba et al. 2022,7,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.57,0.87,2456370.5,2456370.5,Reduced and Fitted Using Iraclis - visit 3
+WASP-17 b,Transmission,Saba et al. 2022,9,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.385,0.56,2456366.5,2456366.5,Reduced and Fitted Using Iraclis - visit 2
+WASP-17 b,Transmission,Saba et al. 2022,9,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.385,0.56,2456086.5,2456086.5,Reduced and Fitted Using Iraclis - visit 1
+WASP-17 b,Transmission,Saba et al. 2022,39,Wide Field Camera 3,Hubble Space Telescope satellite,0.813,1.629,,,Reduced and Fitted Spectral Data Using Iraclis
+WASP-17 b,Transmission,Grant et al. 2023,28,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.125,11.875,,,ExoTiC-MIRI pipeline
+WASP-17 b,Transmission,Grant et al. 2023,28,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.125,11.875,,,Eureka! pipeline
+WASP-17 b,Transmission,Panek et al. 2023,20,Wide Field Camera 3,Hubble Space Telescope satellite,1.0994,1.6616,,,
+WASP-18 b,Emission,Nymeyer et al. 2010,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 2
+WASP-18 b,Emission,Zhou et al. 2015,1,IRIS2,Anglo Australian Telescope,2.159,2.159,,,Table 2
+WASP-18 b,Emission,Arcangeli et al. 2018,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+WASP-18 b,Emission,Arcangeli et al. 2018,14,Wide Field Camera 3,Hubble Space Telescope satellite,1.156,1.583,,,Table 1
+WASP-18 b,Emission,Sheppard et al. 2017,1,IRIS2,Anglo Australian Telescope,2.15,2.15,,,Table 1
+WASP-18 b,Emission,Sheppard et al. 2017,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+WASP-18 b,Emission,Sheppard et al. 2017,29,Wide Field Camera 3,Hubble Space Telescope satellite,1.127,1.647,,,Table 1
+WASP-18 b,Emission,Coulombe et al. 2023,408,Near Infrared Imager and Slitless Spectrograph (NIRISS),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.8543,2.827,,,supreme-SPOON pipeline
+WASP-18 b,Emission,Coulombe et al. 2023,408,Near Infrared Imager and Slitless Spectrograph (NIRISS),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.8543,2.827,,,NAMELESS pipeline
+WASP-18 b,Emission,Coulombe et al. 2023,408,Near Infrared Imager and Slitless Spectrograph (NIRISS),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.8744,2.8412,,,transitspectroscopy pipeline
+WASP-18 b,Emission,Coulombe et al. 2023,408,Near Infrared Imager and Slitless Spectrograph (NIRISS),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.8543,2.827,,,nirHiss pipeline
+WASP-18 b,Emission,Changeat et al. 2022,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Figure 2
+WASP-18 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-18 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,Figure 2
+WASP-18 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+WASP-19 b,Emission,Zhou et al. 2013,1,Merope 2Kx2K,Las Cumbres Observatory Global Telescope Network (LCOGTN) 2m Faulkes Telescope South at Siding Spring Observatory (SSO),0.866,0.866,,,eclipse depth taken from Abstract
+WASP-19 b,Emission,Gibson et al. 2010,1,High Acuity Wide-field K-band Imager (HAWK-I),European Southern Observatory (ESO) 8.2m Very Large Telescope (VLT) Yepun at Paranal Observatory,2.095,2.095,,,eclipse depth taken from Abstract
+WASP-19 b,Emission,Anderson et al. 2013,6,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,1.6,8.0,,,Table 3
+WASP-19 b,Emission,Zhou et al. 2014,1,IRIS2,Australian National University (ANU) 3.9m Anglo-Australian Telescope (AAT) at Siding Spring Observatory (SSO),2.144,2.144,,,Table 3
+WASP-19 b,Emission,Changeat et al. 2022,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Figure 2
+WASP-19 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-19 b,Transmission,Mancini et al. 2013,1,DFOSC imager,Danish 1.54m telescope at European Southern Observatory,0.6469,0.6469,,,
+WASP-19 b,Transmission,Mancini et al. 2013,4,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.4858,0.9222,,,
+WASP-19 b,Transmission,Mancini et al. 2013,1,,0.3-m Perth Exoplanet Survey Telescope,0.6469,0.6469,,,
+WASP-19 b,Transmission,Zhou et al. 2013,1,Merope 2Kx2K,Faulkes Telescope South,0.866,0.866,2456291.059,2456291.059,
+WASP-19 b,Transmission,Mandell et al. 2013,19,Wide Field Camera 3,Hubble Space Telescope satellite,1.118,1.624,2455744.0323,2455744.0323,
+WASP-19 b,Transmission,Huitson et al. 2013,4,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.58,0.9295,,,
+WASP-19 b,Transmission,Huitson et al. 2013,6,Wide Field Camera 3,Hubble Space Telescope satellite,1.137,1.637,,,
+WASP-19 b,Transmission,Bean et al. 2013,9,MMIRS,Magellan II Landon Clay Telescope,1.29,2.3,,,
+WASP-19 b,Transmission,Tregloan-Reed et al. 2013,3,EFOSC2,New Technology Telescope,0.6814,0.6814,2455251.7963,2455255.7404,
+WASP-19 b,Transmission,Sedaghati et al. 2015,27,FORS2,Very Large Telescope (Antu),0.56,0.82,,,
+WASP-19 b,Transmission,Lendl et al. 2013,3,EulerCam,The Swiss Euler 1.2m Telescope,0.664,0.9124,,,
+WASP-19 b,Transmission,Lendl et al. 2013,1,TRAPPISTCam,La Silla Observatory's 60-cm TRAPPIST Telescope,0.838,0.838,,,
+WASP-19 b,Transmission,Wong et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,2455777.1629,2455787.4179,
+WASP-19 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,Figure 2
+WASP-19 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+WASP-21 b,Transmission,Chen et al. 2020,37,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.529,0.903,,,
+WASP-21 b,Transmission,Alderson et al. 2020,25,ACAM,Isaac Newton Group's William Herschel Telescope,0.4635,0.9,,,
+WASP-24 b,Emission,Smith et al. 2012,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,eclipse depth taken from Abstract
+WASP-25 b,Transmission,McGruder et al. 2023,31,Multiple Instruments,Multiple Observatories,0.4305,0.895,,,
+WASP-26 b,Emission,Mahtani et al. 2013,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,eclipse depth taken from Abstract
+WASP-29 b,Transmission,Gibson et al. 2013,15,GMOS,Gemini South Telescope,0.5211,0.7175,,,
+WASP-2 b,Transmission,Jiang et al. 2023,40,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.92,,,
+WASP-31 b,Transmission,Sing et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,
+WASP-31 b,Transmission,Sing et al. 2015,36,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.33,0.9642,,,
+WASP-31 b,Transmission,Sing et al. 2015,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.144,1.624,,,
+WASP-31 b,Transmission,McGruder et al. 2020,30,IMACS spectrograph,Magellan I Walter Baade Telescope,0.4093,0.8983,,,
+WASP-32 b,Transmission,Jiang et al. 2023,40,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.92,,,
+WASP-33 b,Emission,Deming et al. 2012,1,FLAMINGOS imager,National Optical Astronomy Observatory (NOAO) 2.1 meter Telescope at Kitt Peak National Observatory (KPNO),2.15,2.15,,,Table 3
+WASP-33 b,Emission,Deming et al. 2012,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 3
+WASP-33 b,Emission,de Mooij et al. 2013,1,LIRIS,Isaac Newton Group (ING) 4.2m William Herschel Telescope (WHT) at Observatorio del Roque de los Muchachos,2.15,2.15,,,eclipse depth taken from Abstract
+WASP-33 b,Emission,von Essen et al. 2015,1,Large Binocular Camera,LBT Consortium Large Binocular Telescope (LBT) at Mount Graham International Observatory,1.05,1.05,,,eclipse depth taken from Abstract
+WASP-33 b,Emission,Haynes et al. 2015,106,Wide Field Camera 3,Hubble Space Telescope satellite,1.135,1.629,,,Table 7
+WASP-33 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+WASP-33 b,Emission,Changeat et al. 2022,11,Wide Field Camera 3,Hubble Space Telescope satellite,1.155,1.606,,,Figure 2
+WASP-33 b,Transmission,von Essen et al. 2019,32,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.4303,0.869,,,
+WASP-36 b,Emission,Zhou et al. 2015,1,IRIS2,Anglo Australian Telescope,2.159,2.159,,,Table 2
+WASP-36 b,Transmission,Jiang et al. 2023,40,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.92,,,
+WASP-39 b,Emission,Kammer et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 3
+WASP-39 b,Transmission,Ricci et al. 2015,1,Marconi CCD,Observatorio Astronomico Nacional's 2.1m Telescope,0.354,0.354,,,
+WASP-39 b,Transmission,Ricci et al. 2015,2,Mexman,Observatorio Astronomico Nacional's 0.84m Telescope,0.634,0.804,,,
+WASP-39 b,Transmission,Sing et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.56,4.5,,,
+WASP-39 b,Transmission,Sing et al. 2016,33,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.33,0.965,,,
+WASP-39 b,Transmission,Fischer et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,2456401.3973,2456575.7747,
+WASP-39 b,Transmission,Fischer et al. 2016,33,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.33,0.96,,,
+WASP-39 b,Transmission,Nikolov et al. 2016,28,FORS2,Very Large Telescope (Antu),0.418,0.79,,,
+WASP-39 b,Transmission,Wakeford et al. 2018,36,Wide Field Camera 3,Hubble Space Telescope satellite,0.8225,1.6435,,,
+WASP-39 b,Transmission,JWST Transiting Exoplanet Community ERS Team 2022,243,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,3.0007,5.3405,,,Tiberius pipeline
+WASP-39 b,Transmission,JWST Transiting Exoplanet Community ERS Team 2022,95,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,3.0139,5.5476,,,FIREFLy pipeline
+WASP-39 b,Transmission,JWST Transiting Exoplanet Community ERS Team 2022,67,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,3.017,5.465,,,tshirt pipeline
+WASP-39 b,Transmission,JWST Transiting Exoplanet Community ERS Team 2022,94,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,3.0085,5.288,,,Eureka! pipeline
+WASP-39 b,Transmission,Ahrer et al. 2022,107,Near Infrared Camera (NIRCam),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.4275,4.0175,2459783.5016,2459783.5016,
+WASP-39 b,Transmission,Alderson et al. 2022,344,Near Infrared Spectrograph (NIRSpec) - G395H,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.7629,5.1691,,,
+WASP-39 b,Transmission,Feinstein et al. 2022,331,Near Infrared Imager and Slitless Spectrograph (NIRISS),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.631,2.7965,,,
+WASP-39 b,Transmission,Rustamkulov et al. 2022,207,Near Infrared Spectrograph (NIRSpec) - PRISM,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.5315,5.3441,,,
+WASP-39 b,Transmission,Panek et al. 2023,20,Wide Field Camera 3,Hubble Space Telescope satellite,1.0994,1.6616,,,
+WASP-39 b,Transmission,Jiang et al. 2023,31,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.43,0.78,,,
+WASP-39 b,Transmission,Powell et al. 2024,28,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.125,11.875,,,SPARTA Pipeline
+WASP-39 b,Transmission,Powell et al. 2024,26,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.125,11.375,,,Tiberius Pipeline
+WASP-39 b,Transmission,Powell et al. 2024,28,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.125,11.875,,,Eureka Pipeline
+WASP-3 b,Emission,Christiansen et al. 2011,1,High Resolution Imager (HRI),Deep Impact spacecraft,0.65,0.65,,,Table 6
+WASP-3 b,Emission,Rostron et al. 2014,3,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,eclipse depth taken from Abstract
+WASP-3 b,Emission,Zhao et al. 2012,1,Wide-field InfraRed Camera (WIRC),Palomar Observatory 200-inch Hale Telescope,2.15,2.15,,,
+WASP-3 b,Emission,Croll et al. 2015,1,WIRCam,3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,2.15,2.15,,,"Table 5, WASP-3 Ks band combined, Actual Eclipse D"
+WASP-43 b,Emission,Chen et al. 2014,2,GROND,European Southern Observatory (ESO)/Max Planck Gesellschaft (MPG) 2.2m Telescope at La Silla Observatory,0.763,2.19,,,eclipse depth taken from Abstract
+WASP-43 b,Emission,Kreidberg et al. 2014,15,Wide Field Camera 3,Hubble Space Telescope,1.1425,1.6325,,,Table 1
+WASP-43 b,Emission,Gillon et al. 2012,2,HAWK-I,European Southern Observatory (ESO) 8.2m Very Large Telescope (VLT) Yepun at Paranal Observatory,1.186,2.095,,,Table 5
+WASP-43 b,Emission,Gillon et al. 2012,1,TRAPPISTCam,European Southern Observatory (ESO) 0.6m TRAnsiting Planets and PlanetesImals Small Telescope (TRAPPIST) at La Silla Observatory,0.9159,0.9159,,,Table 5
+WASP-43 b,Emission,Wang et al. 2013,2,WIRCam,3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,1.631,2.146,,,eclipse depth taken from Abstract
+WASP-43 b,Emission,Zhou et al. 2014,1,IRIS2,Australian National University (ANU) 3.9m Anglo-Australian Telescope (AAT) at Siding Spring Observatory (SSO),2.144,2.144,,,Table 3
+WASP-43 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+WASP-43 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-43 b,Emission,Bell et al. 2024,14,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,Eureka Pipeline v2
+WASP-43 b,Emission,Bell et al. 2024,14,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,Teatro Pipeline
+WASP-43 b,Emission,Bell et al. 2024,14,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,Eureka Pipeline v1
+WASP-43 b,Emission,Bell et al. 2024,14,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,Sparta Pipeline
+WASP-43 b,Emission,Bell et al. 2024,14,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,Fiducial Combined
+WASP-43 b,Transmission,Murgas et al. 2014,36,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.5425,0.9175,2456301.67,2456301.67,
+WASP-43 b,Transmission,Chen et al. 2014,7,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.575,2.19,2455934.7919,2455934.7925,
+WASP-43 b,Transmission,Ricci et al. 2015,3,Mexman,Observatorio Astronomico Nacional's 0.84m Telescope,0.575,0.804,,,
+WASP-43 b,Transmission,Ricci et al. 2015,1,RATIR,Observatorio Astronomico Nacional's Harold Johnson Telescope,0.76,0.76,,,
+WASP-43 b,Transmission,Kreidberg et al. 2014,22,Wide Field Camera 3,Hubble Space Telescope satellite,1.1465,1.6305,,,
+WASP-43 b,Transmission,Hoyer et al. 2016,1,CAMELOT,Observatorio del Teide's 0.8 meter Telescope,0.6273,0.6273,2457144.4283,2457144.4283,
+WASP-43 b,Transmission,Hoyer et al. 2016,2,Sinistro,LCOGT 1m telescope at Cerro Tololo Inter-American Observatory,0.477,0.7545,2457064.7075,2457423.4504,
+WASP-43 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,Figure 2
+WASP-43 b,Transmission,Bell et al. 2024,14,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,Eureka Pipeline v2
+WASP-43 b,Transmission,Bell et al. 2024,14,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,Teatro Pipeline
+WASP-43 b,Transmission,Bell et al. 2024,14,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,Sparta Pipeline
+WASP-43 b,Transmission,Bell et al. 2024,14,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.25,11.75,,,Eureka Pipeline v1
+WASP-45 b,Transmission,Ciceri et al. 2016,1,DFOSC,Danish 1.54m telescope at European Southern Observatory,0.6489,0.6489,,,
+WASP-45 b,Transmission,Ciceri et al. 2016,1,EulerCam,The Swiss Euler 1.2m Telescope,0.6641,0.6641,,,
+WASP-45 b,Transmission,Ciceri et al. 2016,4,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.477,0.9134,,,
+WASP-46 b,Emission,Zhou et al. 2015,1,IRIS2,Anglo Australian Telescope,2.159,2.159,,,Table 2
+WASP-46 b,Transmission,Ciceri et al. 2016,1,DFOSC,Danish 1.54m telescope at European Southern Observatory,0.6489,0.6489,,,
+WASP-46 b,Transmission,Ciceri et al. 2016,1,EFOSC2,New Techology Telescope,0.5169,0.5169,,,
+WASP-46 b,Transmission,Ciceri et al. 2016,1,EulerCam,The Swiss Euler 1.2m Telescope,0.6641,0.6641,,,
+WASP-46 b,Transmission,Ciceri et al. 2016,4,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.477,0.9134,,,
+WASP-48 b,Transmission,Ciceri et al. 2015,2,BFOSC,Cassini 1.52m Telescope,0.629,0.629,,,
+WASP-48 b,Transmission,Ciceri et al. 2015,4,BUSCA,Calar Alto Observatory's 2.2 meter Telescope,0.3585,0.7886,,,
+WASP-48 b,Transmission,Ciceri et al. 2015,4,DLR-MKIII camera,Calar Alto Observatory's 1.2 meter Telescope,0.6469,0.7886,,,
+WASP-4 b,Emission,C&aacute;ceres et al. 2011,1,ISAAC,European Southern Observatory (ESO) 8.2m Very Large Telescope (VLT) Melipal (UT3) at Paranal Observatory,2.2,2.2,,,
+WASP-4 b,Emission,Beerer et al. 2011,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 1
+WASP-4 b,Emission,Zhou et al. 2015,1,IRIS2,Anglo Australian Telescope,2.159,2.159,,,Table 2
+WASP-4 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+WASP-4 b,Emission,Changeat et al. 2022,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6237,,,Figure 2
+WASP-4 b,Transmission,Hoyer et al. 2013,3,SOI,4.1m Southern Astrophysical Research (SOAR) Telescope at Cerro Pachon,0.8665,0.8665,2454701.813,2455096.5915,
+WASP-4 b,Transmission,Hoyer et al. 2013,9,Y4KCam,The Small and Medium Research Telescope System (SMARTS) Yale 1.0m Telescope at Cerro Tololo Inter-American Observatory (CTIO),0.6469,0.8665,2454701.8128,2455832.6181,
+WASP-4 b,Transmission,Huitson et al. 2017,4,GMOS,Association of Universities for Research in Astronomy (AURA) 8.1m Gemini South Telescope at Cerro Pachon,0.525,0.7125,2455844.6629,2456924.6156,
+WASP-5 b,Emission,Chen et al. 2014,2,GROND,European Southern Observatory (ESO)/Max Planck Gesellschaft (MPG) 2.2m Telescope at La Silla Observatory,1.22,2.19,,,eclipse depth taken from Abstract
+WASP-5 b,Emission,Baskin et al. 2013,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,eclipse depth taken from Abstract
+WASP-5 b,Emission,Zhou et al. 2015,1,IRIS2,Anglo Australian Telescope,2.159,2.159,,,Table 2
+WASP-6 b,Emission,Kammer et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 3
+WASP-6 b,Transmission,Jord&aacute;n et al. 2013,21,IMACS spectrograph,Magellan I Walter Baade Telescope,0.4823,0.8517,2455473.6537,2455473.6537,
+WASP-6 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+WASP-6 b,Transmission,Panek et al. 2023,20,Wide Field Camera 3,Hubble Space Telescope satellite,1.0994,1.6616,,,
+WASP-8 b,Emission,Cubillos et al. 2013,3,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,
+XO-1 b,Emission,Machalek et al. 2008,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 2
+XO-1 b,Transmission,Deming et al. 2013,29,Wide Field Camera 3,Hubble Space Telescope satellite,1.121,1.648,2455834.8519,2455834.8519,
+XO-1 b,Transmission,Crouzet et al. 2012,15,Near Infrared Camera and Multi-Object Spectrometer,Hubble Space Telescope satellite,1.212,1.772,,,
+XO-2 N b,Emission,Machalek et al. 2009,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+XO-2 N b,Transmission,Zellem et al. 2015,13,Mont4k CCD,Steward Observatory's 1.5 meter Kuiper Telescope,0.36,0.44,2455931.7663,2457061.8169,
+XO-2 N b,Transmission,Pearson et al. 2019,60,GMOS,Association of Universities for Research in Astronomy (AURA) 8.1m Frederick C. Gillett Gemini North Telescope at Mauna Kea Observatory,0.3951,0.6316,,,
+XO-2 N b,Transmission,Pearson et al. 2019,86,KOSMOS,National Optical Astronomy Observatory (NOAO) 4m Nicholas U. Mayall Telescope at Kitt Peak National Observatory (KPNO),0.384,0.6558,,,
+XO-2 N b,Transmission,Crouzet et al. 2012,15,Near Infrared Camera and Multi-Object Spectrometer,Hubble Space Telescope satellite,1.205,1.765,,,
+XO-2 N b,Transmission,Sing et al. 2011,4,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.6792,0.8839,,,
+XO-3 b,Emission,Wong et al. 2014,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,eclipse depth taken from Abstract
+XO-3 b,Emission,Machalek et al. 2010,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 1
+XO-4 b,Emission,Todorov et al. 2012,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,"Table 4 (eclip depth), Table 5 (bright temp)"
+WASP-79 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+WASP-79 b,Emission,Changeat et al. 2022,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6237,,,Figure 2
+WASP-79 b,Emission,Mansfield et al. 2021,14,Wide Field Camera 3,Hubble Space Telescope satellite,1.139,1.64,,,Supplementary Table 5
+WASP-79 b,Emission,Foote et al. 2022,3,Wide Field Camera 3,Hubble Space Telescope satellite,1.18,1.58,,,Three bins of width 0.20 um.
+WASP-79 b,Transmission,Sotzen et al. 2020,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.56,4.5,,,
+WASP-79 b,Transmission,Sotzen et al. 2020,8,LDSS-3C,Magellan II Landon Clay Telescope,0.647,1.0,,,
+WASP-79 b,Transmission,Sotzen et al. 2020,1,TESS CCD Array,Transiting Exoplanet Survey Satellite,0.808,0.808,,,
+WASP-79 b,Transmission,Sotzen et al. 2020,15,Wide Field Camera 3,Hubble Space Telescope satellite,1.143,1.632,,,
+WASP-79 b,Transmission,Skaf et al. 2020,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6295,,,Table 4
+WASP-79 b,Transmission,Gressier et al. 2023,6,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.2387,0.2986,,,Table 6
+WASP-79 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,Figure 2
+WASP-79 b,Transmission,Rathcke et al. 2021,36,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.3397,0.97,,,Table 6
+KELT-1 b,Emission,Beatty et al. 2014,1,Apogee CCD,University of Louisville 0.6m (24inch) Telescope at Moore Observatory,0.905,0.905,,,eclipse depth taken from Abstract
+KELT-1 b,Emission,Beatty et al. 2014,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,eclipse depth taken from Abstract
+KELT-1 b,Emission,Croll et al. 2015,1,WIRCam,3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,2.19,2.19,,,"Table 5, KELT-1 Ks band, Actual Eclipse Depth"
+KELT-1 b,Emission,Beatty et al. 2017,5,LUCI1,LBT Consortium Large Binocular Telescope (LBT) at Mount Graham International Observatory,1.57,1.73,,,Table 3
+KELT-1 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+KELT-1 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+KELT-1 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+KELT-1 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+KELT-2 A b,Emission,Piskorz et al. 2018,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 2
+GJ 3470 b,Emission,Benneke et al. 2019,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Supplementary Table 3
+GJ 3470 b,Transmission,Biddle et al. 2014,3,CCD-2 Direct Imaging Camera,Lick Observatory's 1m Nickel Telescope,0.9222,0.9222,2456253.9729,2456350.7352,
+GJ 3470 b,Transmission,Biddle et al. 2014,1,EulerCam,The Swiss Euler 1.2m Telescope,0.9222,0.9222,2455993.7141,2455993.7141,
+GJ 3470 b,Transmission,Biddle et al. 2014,1,ISLE,National Astronomical Observatory of Japan's Okayama Astrophysical Observatory 1.88m Telescope,1.215,1.215,2456247.2995,2456247.2995,
+GJ 3470 b,Transmission,Biddle et al. 2014,1,Large Monolithic Imager,Lowell Observatory's 4.3-m Discovery Channel Telescope,0.7886,0.7886,2456310.6962,2456310.6962,
+GJ 3470 b,Transmission,Biddle et al. 2014,1,Mont4K CCD Imager,Steward Observatory's 1.5 meter Kuiper Telescope,0.7886,0.7886,2456340.7259,2456340.7259,
+GJ 3470 b,Transmission,Biddle et al. 2014,2,SBIG imager,LCOGT 1m telescope at Cerro Tololo Inter-American Observatory,0.6274,0.87,2456300.6855,2456300.6855,
+GJ 3470 b,Transmission,Biddle et al. 2014,3,SBIG imager,LCOGT 1m telescope at McDonald Observatory,0.6274,0.7695,2456360.7449,2456380.7648,
+GJ 3470 b,Transmission,Biddle et al. 2014,2,,Large Binocular Telescope Observatory,0.3575,0.9635,2456340.7259,2456340.7259,
+GJ 3470 b,Transmission,Biddle et al. 2014,2,,La Silla Observatory's 60-cm Trappist Telescope,0.9222,0.9222,2455983.7417,2455993.7141,
+GJ 3470 b,Transmission,Biddle et al. 2014,1,,Calar Alto observatory's 1.23m Telescope,0.7886,0.7886,2456367.4195,2456367.4195,
+GJ 3470 b,Transmission,Biddle et al. 2014,3,,National Astronomical Observatory of Japan's Okayama Astrophysical Observatory 0.5m Telescope,0.4858,0.7886,2456247.2995,2456247.2995,
+GJ 3470 b,Transmission,Biddle et al. 2014,1,,Faulkes Telescope North,0.4326,0.4326,2456360.7449,2456360.7449,
+GJ 3470 b,Transmission,Ehrenreich et al. 2014,107,Wide Field Camera 3,Hubble Space Telescope satellite,1.153,1.645,,,
+GJ 3470 b,Transmission,Fukui et al. 2013,1,ISLE,National Astronomical Observatory of Japan's Okayama Astrophysical Observatory 1.88m Telescope,1.215,1.215,2456247.2995,2456247.2995,
+GJ 3470 b,Transmission,Fukui et al. 2013,3,,National Astronomical Observatory of Japan's Okayama Astrophysical Observatory 0.5m Telescope,0.4858,0.7886,2456247.2995,2456247.2995,
+GJ 3470 b,Transmission,Crossfield et al. 2013,6,MOSFIRE,KECK I Telescope,2.11,2.335,2456390.7758,2456390.7758,
+GJ 3470 b,Transmission,Nascimbeni et al. 2013,2,LBC,Large Binocular Telescope Observatory,0.3575,0.9635,2456340.7256,2456340.7256,
+GJ 3470 b,Transmission,Dragomir et al. 2015,2,Fairchild CCD486 BI,LCOGT 2m telescope at Siding Springs Observatory,0.49,0.49,2456661.0463,2456691.0739,
+GJ 3470 b,Transmission,Dragomir et al. 2015,1,Fairchild CCD486 BI,LCOGT 2m telescope at Haleakala Observatory,0.49,0.49,2456681.0617,2456681.0617,
+GJ 3470 b,Transmission,Dragomir et al. 2015,2,Mont4k CCD,Steward Observatory's 1.5 meter Kuiper Telescope,0.437,0.545,2456677.7278,2456697.7473,
+GJ 3470 b,Transmission,Dragomir et al. 2015,3,SBIG imager,LCOGT 1m telescope at South African Astronomical Observatory,0.763,0.763,2456684.4005,2456714.4316,
+GJ 3470 b,Transmission,Dragomir et al. 2015,4,SBIG imager,LCOGT 1m telescope at McDonald Observatory,0.49,0.763,2456370.757,2456717.7641,
+GJ 3470 b,Transmission,Awiphan et al. 2016,1,Multiple Instruments,Multiple Observatories,0.6469,0.6469,,,
+GJ 3470 b,Transmission,Awiphan et al. 2016,4,ULTRASPEC,Thai National Observatory's 2.4m Telescope,0.4858,0.9222,,,
+GJ 3470 b,Transmission,Benneke et al. 2019,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,
+GJ 3470 b,Transmission,Benneke et al. 2019,8,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.552,0.895,,,
+GJ 3470 b,Transmission,Benneke et al. 2019,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.135,1.645,,,
+GJ 3470 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+HAT-P-41 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+HAT-P-41 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+HAT-P-41 b,Emission,Mansfield et al. 2021,14,Wide Field Camera 3,Hubble Space Telescope satellite,1.139,1.64,,,Supplementary Table 5
+HAT-P-41 b,Emission,Fu et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 2
+HAT-P-41 b,Emission,Fu et al. 2022,15,Wide Field Camera 3,Hubble Space Telescope satellite,1.1137,1.6345,,,Table 2
+HAT-P-41 b,Transmission,Wakeford et al. 2020,59,Wide Field Camera 3,Hubble Space Telescope satellite,0.205,0.785,,,
+HAT-P-41 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-49 b,Transmission,Jiang et al. 2023,40,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.92,,,
+WASP-62 b,Transmission,Skaf et al. 2020,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6295,,,Table 4
+WASP-67 b,Emission,Kammer et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 3
+WASP-67 b,Transmission,Mancini et al. 2014,1,DFOSC,Danish 1.54m telescope at European Southern Observatory,0.6489,0.6489,,,
+WASP-67 b,Transmission,Mancini et al. 2014,1,EulerCam,The Swiss Euler 1.2m Telescope,0.6641,0.6641,,,
+WASP-67 b,Transmission,Mancini et al. 2014,4,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.459,0.8989,,,
+WASP-67 b,Transmission,Mancini et al. 2014,1,TRAPPISTCam,La Silla Observatory's 60-cm TRAPPIST Telescope,0.838,0.838,,,
+WASP-57 b,Transmission,Southworth et al. 2015,4,BUSCA,Calar Alto Observatory's 2.2 meter Telescope,0.35,0.91,,,
+WASP-57 b,Transmission,Southworth et al. 2015,1,DFOSC,Danish 1.54m telescope at European Southern Observatory,0.6489,0.6489,,,
+WASP-57 b,Transmission,Southworth et al. 2015,1,EulerCam,The Swiss Euler 1.2m Telescope,0.66,0.66,,,
+WASP-57 b,Transmission,Southworth et al. 2015,4,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.477,0.9134,,,
+WASP-52 b,Transmission,Chen et al. 2017,26,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.5306,0.8945,,,
+WASP-52 b,Transmission,Louden et al. 2017,19,ACAM,Isaac Newton Group's William Herschel Telescope,0.4125,0.8625,,,
+WASP-77 A b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+WASP-77 A b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-77 A b,Emission,August et al. 2023,150,Near Infrared Spectrograph (NIRSpec) - G395H,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.811,5.164,,,Table 2
+WASP-80 b,Emission,Triaud et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 1
+WASP-80 b,Transmission,Triaud et al. 2015,1,DFOSC,Danish 1.54m telescope at European Southern Observatory,0.8,0.8,,,
+WASP-80 b,Transmission,Triaud et al. 2015,2,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.47,0.77,,,
+WASP-80 b,Transmission,Triaud et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,
+WASP-80 b,Transmission,Triaud et al. 2015,2,Multiple Instruments,Multiple Observatories,0.62,0.9,,,
+WASP-80 b,Transmission,Fukui et al. 2014,2,ISLE,National Astronomical Observatory of Japan's Okayama Astrophysical Observatory 1.88m Telescope,1.215,1.215,2456518.1033,2456557.9858,
+WASP-80 b,Transmission,Fukui et al. 2014,9,SIRIUS,Infrared Survey Facility,1.25,2.14,2456490.4925,2456573.3247,
+WASP-80 b,Transmission,Fukui et al. 2014,6,,National Astronomical Observatory of Japan's Okayama Astrophysical Observatory 0.5m Telescope,0.48,0.8,2456518.1033,2456557.9858,
+WASP-80 b,Transmission,Kirk et al. 2018,34,ACAM,Isaac Newton Group William Herschel Telescope,0.479,0.879,,,
+HATS-2 b,Transmission,Biagiotti et al. 2024,2,DFOSC,Danish 1.54m telescope at European Southern Observatory,0.6489,0.82,,,"from text, Section 6"
+HATS-2 b,Transmission,Biagiotti et al. 2024,4,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.477,0.9134,,,"from text, Section 6"
+WASP-103 b,Emission,Cartier et al. 2017,22,Wide Field Camera 3,Hubble Space Telescope satellite,1.0806,1.6848,,,Table 6
+WASP-103 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+WASP-103 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-103 b,Transmission,Southworth &amp; Evans 2016,2,DFOSC,Danish 1.54m telescope at European Southern Observatory,0.6589,0.82,,,
+WASP-103 b,Transmission,Southworth &amp; Evans 2016,4,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.477,0.9134,,,
+WASP-103 b,Transmission,Wilson et al. 2020,16,FORS2,Very Large Telescope (Antu),0.3943,0.6043,,,
+WASP-103 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-103 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+WASP-96 b,Transmission,Nikolov et al. 2018,49,FORS2,Very Large Telescope (Antu),0.3756,0.7973,,,
+WASP-96 b,Transmission,Radica et al. 2023,2605,Near Infrared Imager and Slitless Spectrograph (NIRISS),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.6,2.8286,,,"SOSS mode, supreme-SPOON pipeline"
+WASP-98 b,Transmission,Mancini et al. 2016,8,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.459,0.8989,2456943.6959,2457029.6128,
+WASP-101 b,Transmission,Wakeford et al. 2017,15,Wide Field Camera 3,Hubble Space Telescope satellite,1.1425,1.6325,,,
+WASP-101 b,Transmission,Rathcke et al. 2023,26,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.3398,0.9772,,,
+WASP-117 b,Transmission,Anisman et al. 2020,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6237,,,
+WASP-117 b,Transmission,Carone et al. 2021,19,Wide Field Camera 3,Hubble Space Telescope satellite,1.138,1.6421,,,CASCADE pipeline
+WASP-117 b,Transmission,Carone et al. 2021,19,Wide Field Camera 3,Hubble Space Telescope satellite,1.138,1.6421,,,nominal pipeline
+WASP-69 b,Transmission,Murgas et al. 2020,30,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.525,0.895,,,
+K2-3 b,Transmission,Beichman et al. 2016,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+K2-3 b,Transmission,Beichman et al. 2016,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+K2-3 c,Transmission,Beichman et al. 2016,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+K2-3 c,Transmission,Beichman et al. 2016,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+K2-3 d,Transmission,Beichman et al. 2016,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+K2-3 d,Transmission,Beichman et al. 2016,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+KELT-7 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+KELT-7 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+KELT-7 b,Emission,Mansfield et al. 2021,14,Wide Field Camera 3,Hubble Space Telescope satellite,1.139,1.64,,,Supplementary Table 5
+KELT-7 b,Emission,Pluriel et al. 2020,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,Table 4
+KELT-7 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+KELT-7 b,Transmission,Pluriel et al. 2020,1,TESS CCD Array,Transiting Exoplanet Survey Satellite,0.8,0.8,,,Table 4
+KELT-7 b,Transmission,Pluriel et al. 2020,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,Table 4
+HAT-P-55 b,Transmission,Kang et al. 2024,4,MuSCAT2,"1.52 m Telescopio Carlos Sanchez, Teide Observatory",0.475,0.87,,,Table 3
+WASP-74 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+WASP-74 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-74 b,Emission,Mansfield et al. 2021,14,Wide Field Camera 3,Hubble Space Telescope satellite,1.139,1.64,,,Supplementary Table 5
+WASP-74 b,Emission,Fu et al. 2021,30,Wide Field Camera 3,Hubble Space Telescope satellite,1.1193,4.5,,,Table 10
+WASP-74 b,Transmission,Mancini et al. 2019,1,DFOSC,Danish 1.54m telescope at European Southern Observatory,0.798,0.798,,,
+WASP-74 b,Transmission,Mancini et al. 2019,1,DLR-MKIII camera,Calar Alto Observatory's 1.2 meter Telescope,0.787,0.787,,,
+WASP-74 b,Transmission,Mancini et al. 2019,7,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.459,2.17,,,
+WASP-74 b,Transmission,Mancini et al. 2019,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.126,1.625,,,
+WASP-74 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,Figure 2
+WASP-74 b,Transmission,Fu et al. 2021,65,Wide Field Camera 3,Hubble Space Telescope satellite,0.33,4.5,,,Table 8
+K2-18 b,Transmission,Tsiaras et al. 2019,17,Wide Field Camera 3,Hubble Space Telescope satellite,1.156,1.606,,,
+K2-18 b,Transmission,Benneke et al. 2019,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.54,4.49,,,
+K2-18 b,Transmission,Benneke et al. 2019,1,Kepler CCD camera,The Kepler Mission,0.66,0.66,,,
+K2-18 b,Transmission,Benneke et al. 2019,17,Wide Field Camera 3,Hubble Space Telescope satellite,1.14,1.61,,,
+K2-18 b,Transmission,Madhusudhan et al. 2023,1010,Near Infrared Imager and Slitless Spectrograph (NIRISS),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.8523,2.827,,,Figure 3
+K2-18 b,Transmission,Madhusudhan et al. 2023,3401,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.7428,5.1743,,,Figure 3
+HAT-P-57 b,Transmission,Jiang et al. 2023,40,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.92,,,
+GJ 1132 b,Transmission,Southworth et al. 2017,4,GROND,Max Planck Gesellschaft 2.2 meter Telescope at European Southern Observatory,0.477,0.9134,,,
+GJ 1132 b,Transmission,Southworth et al. 2017,2,PISCO,Carnegie Institution for Science (CIS) 6.5m Landon Clay Telescope at Las Campanas Observatory (LCO),0.475,0.775,,,
+GJ 1132 b,Transmission,Diamond-Lowe et al. 2018,17,LDSS-3C,Magellan II Landon Clay Telescope,0.71,1.03,,,
+GJ 1132 b,Transmission,Swain et al. 2021,94,Wide Field Camera 3,Hubble Space Telescope satellite,1.13,1.637,,,
+GJ 1132 b,Transmission,Libby-Roberts et al. 2022,22,Wide Field Camera 3,Hubble Space Telescope satellite,1.161,1.619,,,Table 2
+GJ 1132 b,Transmission,Mugnai et al. 2021,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Table 4
+GJ 1132 b,Transmission,May et al. 2023,59,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.794,5.1279,,,Exotic-jedi R100 (Visit 2)
+GJ 1132 b,Transmission,May et al. 2023,60,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.7663,5.1279,,,Firefly R100 (Visit 1)
+GJ 1132 b,Transmission,May et al. 2023,59,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.7935,5.1282,,,Exotic-jedi R100 (Visit 1)
+GJ 1132 b,Transmission,May et al. 2023,60,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.7666,5.1281,,,Firefly R100 (Visit 2)
+GJ 1132 b,Transmission,May et al. 2023,60,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.7663,5.1278,,,Eureka R100 (Visit 1)
+GJ 1132 b,Transmission,May et al. 2023,60,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.7668,5.1283,,,Eureka R100 (Visit 2)
+HAT-P-51 b,Transmission,Kang et al. 2024,4,MuSCAT2,"1.52 m Telescopio Carlos Sanchez, Teide Observatory",0.475,0.87,,,Table 3
+K2-26 b,Transmission,Beichman et al. 2016,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+K2-26 b,Transmission,Beichman et al. 2016,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+WASP-76 b,Emission,Edwards et al. 2020,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,
+WASP-76 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+WASP-76 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-76 b,Emission,Mansfield et al. 2021,14,Wide Field Camera 3,Hubble Space Telescope satellite,1.139,1.64,,,Supplementary Table 5
+WASP-76 b,Emission,May et al. 2021,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,"Table 4 and text, Section 5"
+WASP-76 b,Transmission,Edwards et al. 2020,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,
+WASP-76 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,Figure 2
+TRAPPIST-1 b,Emission,Greene et al. 2023,1,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,15.0,15.0,,,
+TRAPPIST-1 c,Emission,Zieba et al. 2023,1,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,15.0,15.0,,,
+WASP-124 b,Transmission,McGruder et al. 2023,33,Multiple Instruments,Multiple Observatories,0.465,0.979,,,
+WASP-121 b,Emission,Evans et al. 2017,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,3.6,,,eclipse depth (3670 +/- 130 ppm) taken from text
+WASP-121 b,Emission,Evans et al. 2017,28,Wide Field Camera 3,Hubble Space Telescope satellite,1.131,1.632,,,
+WASP-121 b,Emission,Mikal-Evans et al. 2020,28,Wide Field Camera 3,Hubble Space Telescope satellite,1.129,1.628,,,
+WASP-121 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+WASP-121 b,Emission,Changeat et al. 2022,38,Wide Field Camera 3,Hubble Space Telescope satellite,0.8125,1.6295,,,Figure 2
+WASP-121 b,Emission,Mansfield et al. 2021,14,Wide Field Camera 3,Hubble Space Telescope satellite,1.139,1.64,,,Supplementary Table 5
+WASP-121 b,Transmission,Evans et al. 2016,31,Wide Field Camera 3,Hubble Space Telescope,0.4365,1.6315,,,
+WASP-121 b,Transmission,Sing et al. 2019,5,Space Telescope Imaging Spectrograph,Hubble Space Telescope satellite,0.2387,0.2986,,,
+WASP-121 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-121 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+WASP-121 b,Transmission,Wilson et al. 2021,53,GMOS,Gemini South Telescope,0.525,0.945,,,
+HIP 41378 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+HIP 41378 f,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+HD 3167 c,Transmission,Guilluy et al. 2021,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6295,,,Table 5
+HAT-P-65 b,Transmission,Kang et al. 2024,4,MuSCAT2,"1.52 m Telescopio Carlos Sanchez, Teide Observatory",0.475,0.87,,,Table 3
+WASP-127 b,Transmission,Palle et al. 2017,23,ALFOSC,Nordic Optical Telescope,0.425,0.875,,,
+WASP-127 b,Transmission,Chen et al. 2018,27,ALFOSC,Nordic Optical Telescope,0.405,0.935,,,
+WASP-127 b,Transmission,Chen et al. 2018,86,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.5242,1.013,,,
+WASP-127 b,Transmission,Skaf et al. 2020,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6295,,,Table 4
+TRAPPIST-1 g,Transmission,Wakeford et al. 2019,13,Wide Field Camera 3,Hubble Space Telescope satellite,1.1375,1.635,,,
+TRAPPIST-1 h,Transmission,Gressier et al. 2022,18,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6237,,,Table 2
+HD 106315 c,Transmission,Guilluy et al. 2021,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6295,,,Table 5
+KELT-11 b,Transmission,Col&oacute;n et al. 2020,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,3.6,,,
+KELT-11 b,Transmission,Col&oacute;n et al. 2020,21,Wide Field Camera 3,Hubble Space Telescope satellite,1.137,1.637,,,
+KELT-11 b,Transmission,Changeat et al. 2020,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,
+KELT-9 b,Emission,Changeat &amp; Edwards 2021,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,
+KELT-9 b,Emission,Wong et al. 2020,1,TESS CCD Array,Transiting Exoplanet Survey Satellite,0.787,0.787,,,
+KELT-9 b,Emission,Changeat et al. 2022,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,Figure 2
+KELT-9 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+KELT-9 b,Transmission,Cauley et al. 2019,19,Potsdam Echelle Polarimetric & Spectroscopic Instrument (PEPSI),LBT Consortium Large Binocular Telescope (LBT) at Mount Graham International Observatory,0.4805,0.6563,,,
+KELT-9 b,Transmission,Turner et al. 2020,4,CARMENES,Calar Alto Observatorys 3.5 meter Telescope,0.6565,0.8665,,,
+WASP-107 b,Transmission,Kreidberg et al. 2018,20,Wide Field Camera 3,Hubble Space Telescope satellite,1.133,1.616,,,
+WASP-107 b,Transmission,Spake et al. 2018,49,Wide Field Camera 3,Hubble Space Telescope satellite,0.8916,1.616,,,
+WASP-107 b,Transmission,Dyrek et al. 2023,49,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,4.61,11.83,,,"Extended Data Table 1, Eureka!"
+WASP-107 b,Transmission,Dyrek et al. 2023,49,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,4.61,11.83,,,"Extended Data Table 1, CASCAde"
+WASP-107 b,Transmission,Dyrek et al. 2023,49,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,4.61,11.83,,,"Extended Data Table 1, TEATRO"
+WASP-107 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+WASP-156 b,Transmission,Jiang et al. 2023,40,OSIRIS,Gran Telescopio CANARIAS 10.4m telescope,0.53,0.92,,,
+GJ 9827 d,Transmission,Roy et al. 2023,19,Wide Field Camera 3,Hubble Space Telescope satellite,1.115,1.655,,,Near-infrared Combined Spectrum
+KELT-20 b,Emission,Fu et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,Table 1
+KELT-20 b,Emission,Fu et al. 2022,1,TESS CCD Array,Transiting Exoplanet Survey Satellite,0.8,0.8,,,Table 1
+KELT-20 b,Emission,Fu et al. 2022,29,Wide Field Camera 3,Hubble Space Telescope satellite,1.13,1.64,,,Table 1
+HD 219666 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+V1298 Tau b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+TOI-270 c,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+TOI-270 d,Transmission,Mikal-Evans et al. 2023,28,Wide Field Camera 3,Hubble Space Telescope satellite,1.135,1.634,,,
+TOI-270 d,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+LTT 1445 A b,Transmission,Diamond-Lowe et al. 2023,20,LDSS-3C,Magellan II Landon Clay Telescope,0.63,1.01,,,Combination of four data sets
+HAT-P-70 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+WASP-178 b,Transmission,Lothringer et al. 2022,53,Wide Field Camera 3,Hubble Space Telescope satellite,0.1963,0.7575,,,Extended Data Table 1
+WASP-178 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+V1298 Tau c,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+L 168-9 b,Transmission,Bouwman et al. 2023,48,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,4.86,11.86,,,CASCADe Pipeline
+L 168-9 b,Transmission,Bouwman et al. 2023,48,Mid-Infrared Instrument (MIRI) - LRS,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,4.86,11.86,,,Eureka! Pipeline
+LTT 9779 b,Transmission,Edwards et al. 2023,38,Wide Field Camera 3,Hubble Space Telescope satellite,0.8375,1.6294,,,
+LTT 9779 b,Transmission,Radica et al. 2024,227,Near Infrared Imager and Slitless Spectrograph (NIRISS),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,0.6064,2.7286,,,SOSS mode
+GJ 486 b,Transmission,Moran et al. 2023,47,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.865,5.119,,,Tiberius pipeline
+GJ 486 b,Transmission,Moran et al. 2023,110,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.867,5.155,,,Eureka! pipeline
+GJ 486 b,Transmission,Moran et al. 2023,46,Near Infrared Spectrograph (NIRSpec),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.854,5.026,,,FIREFLy pipeline
+TOI-674 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+GJ 367 b,Emission,Zhang et al. 2024,11,Mid-Infrared Instrument (MIRI),NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,5.364,11.454,,,The fiducial emission spectrum (Table 4)
+TOI-1268 b,Transmission,P&eacute;rez-Gonz&aacute;lez et al. 2024,1,TESS CCD Array,Transiting Exoplanet Survey Satellite,0.787,0.787,,,
+TOI-1268 b,Transmission,P&eacute;rez-Gonz&aacute;lez et al. 2024,1,Wide-field InfraRed Camera (WIRC),Palomar Observatory 200-inch Hale Telescope,1.083,1.083,,,
+WASP-189 b,Transmission,Sreejith et al. 2023,11,CUTE CCD Array,Colorado Ultraviolet Transit Experiment (CUTE),0.251,0.324,,,NUV t. spec. at 10 A and 100 A Bins
+Kepler-18 c,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-18 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-410 A b,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-410 A b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+LHS 475 b,Transmission,Lustig-Yaeger et al. 2023,56,Near Infrared Spectrograph (NIRSpec) - G395H,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.8287,5.1436,,,FIREFLy pipeline (low resolution)
+LHS 475 b,Transmission,Lustig-Yaeger et al. 2023,3370,Near Infrared Spectrograph (NIRSpec) - G395H,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.7872,5.1497,,,Tiberius pipeline
+LHS 475 b,Transmission,Lustig-Yaeger et al. 2023,3284,Near Infrared Spectrograph (NIRSpec) - G395H,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.8843,5.1768,,,Eureka! pipeline
+LHS 475 b,Transmission,Lustig-Yaeger et al. 2023,3382,Near Infrared Spectrograph (NIRSpec) - G395H,NASA 6.5m James Webb Space Telescope (JWST) Satellite Mission,2.809,5.175,,,FIREFLy pipeline
+Kepler-61 b,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-61 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+KOI-13 b,Emission,Beatty et al. 2017,15,Wide Field Camera 3,Hubble Space Telescope satellite,1.142,1.632,,,Table 4
+KOI-13 b,Emission,Changeat et al. 2022,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Figure 2
+KOI-13 b,Emission,Changeat et al. 2022,15,Wide Field Camera 3,Hubble Space Telescope satellite,1.142,1.632,,,Figure 2
+KOI-13 b,Emission,Mansfield et al. 2021,14,Wide Field Camera 3,Hubble Space Telescope satellite,1.139,1.64,,,Supplementary Table 5
+KOI-13 b,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+KOI-13 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-102 e,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-102 e,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-14 b,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-14 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-94 b,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-94 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-125 b,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-125 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+TOI-4438 b,Transmission,Goffo et al. 2024,4,MuSCAT2,"1.52 m Telescopio Carlos Sanchez, Teide Observatory",0.475,0.87,,,Table 2
+TOI-4438 b,Transmission,Goffo et al. 2024,1,TESS CCD Array,Transiting Exoplanet Survey Satellite,0.787,0.787,,,Table 2
+TOI-4860 b,Transmission,Almenara et al. 2023,5,ExTrA,"60 cm telescopes, La Silla Observatory",0.8898,1.5264,,,Table 2
+TOI-4860 b,Transmission,Almenara et al. 2023,1,TESS CCD Array,Transiting Exoplanet Survey Satellite,0.7698,0.7698,,,Table 2
+Kepler-68 b,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-68 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-62 e,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-62 e,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-249 d,Transmission,D&eacute;sert et al. 2015,3,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-249 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+KOI-94 d,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+KOI-94 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-32 d,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-32 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-49 c,Transmission,D&eacute;sert et al. 2015,3,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-49 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-20 d,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-20 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-26 c,Transmission,D&eacute;sert et al. 2015,3,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-26 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-102 d,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-102 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-11 e,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-11 e,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-25 c,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-25 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-37 d,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-37 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-127 d,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-127 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-25 b,Transmission,D&eacute;sert et al. 2015,3,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-25 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-93 b,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-93 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+TrES-2 b,Emission,Croll et al. 2010,1,Wide-field Infrared Camera (WIRCam),3.58m Canada-France-Hawaii Telescope (CFHT) at Mauna Kea Observatory,2.146,2.146,,,eclipse depth taken from Abstract
+TrES-2 b,Emission,Christiansen et al. 2011,1,High Resolution Imager (HRI),Deep Impact spacecraft,0.65,0.65,,,Table 6
+TrES-2 b,Emission,O&#39;Donovan et al. 2010,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 2
+TrES-2 b,Transmission,Ranjan et al. 2014,10,Wide Field Camera 3,Hubble Space Telescope satellite,1.0965,1.6535,,,
+TrES-2 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+Kepler-18 d,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-18 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-104 d,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-104 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-126 d,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-126 d,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-51 d,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+Kepler-138 c,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-138 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-138 d,Transmission,Piaulet et al. 2022,7,Multiple Instruments,Multiple Observatories,0.66,4.5,,,Updated HST and Spitzer results.
+Kepler-22 b,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-22 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-9 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+Kepler-5 b,Emission,D&eacute;sert et al. 2011,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,,,Table 2
+Kepler-236 c,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-236 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-10 c,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-10 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-19 b,Transmission,D&eacute;sert et al. 2015,3,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-19 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-49 b,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-49 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+HAT-P-7 b,Emission,Christiansen et al. 2010,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Table 3
+HAT-P-7 b,Emission,Changeat et al. 2022,4,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,8.0,,,Figure 2
+HAT-P-7 b,Emission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+HAT-P-7 b,Transmission,Wong et al. 2016,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.6,4.5,2455419.5574,2455430.582,
+HAT-P-7 b,Transmission,Changeat et al. 2022,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1263,1.6295,,,Figure 2
+HAT-P-7 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+KOI-12 b,Transmission,D&eacute;sert et al. 2015,1,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+KOI-12 b,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+K2-24 b,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+HAT-P-11 b,Transmission,Fraine et al. 2014,6,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,3.521,4.471,,,
+HAT-P-11 b,Transmission,Fraine et al. 2014,1,Kepler CCD camera,The Kepler Mission,0.642,0.642,,,
+HAT-P-11 b,Transmission,Fraine et al. 2014,29,Wide Field Camera 3,Hubble Space Telescope satellite,1.153,1.68,,,
+Kepler-9 c,Transmission,Edwards et al. 2023,25,Wide Field Camera 3,Hubble Space Telescope satellite,1.1262,1.6294,,,G141
+Kepler-158 c,Transmission,D&eacute;sert et al. 2015,3,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-158 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
+Kepler-205 c,Transmission,D&eacute;sert et al. 2015,2,Infrared Array Camera (IRAC),Spitzer Space Telescope satellite,4.5,4.5,,,
+Kepler-205 c,Transmission,D&eacute;sert et al. 2015,1,Kepler CCD Array,The Kepler Mission,0.6,0.6,,,
